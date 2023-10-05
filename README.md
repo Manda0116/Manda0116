@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manda0116
+👋 Hi, I’m @Manda0116
 
 <!---
 Manda0116/Manda0116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
